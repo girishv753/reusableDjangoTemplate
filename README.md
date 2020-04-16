@@ -1,0 +1,2 @@
+# reusableDjangoTemplate
+LightweightDjangoProject
